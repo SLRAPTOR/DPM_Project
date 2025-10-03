@@ -1,0 +1,145 @@
+2021-08-03:21:27:19 TRACE [AWT-EventQueue-0] (JRExpressionCollector.java:263) — 2104467174 generated id 7 for expression 429457108 new java.lang.Integer(0)
+2021-08-03:21:27:19 TRACE [AWT-EventQueue-0] (JRExpressionCollector.java:263) — 2104467174 generated id 8 for expression 1603190654 $F{nicNo}
+2021-08-03:21:27:19 TRACE [AWT-EventQueue-0] (JRExpressionCollector.java:263) — 2104467174 generated id 9 for expression 1495575181 $F{name}
+2021-08-03:21:27:19 TRACE [AWT-EventQueue-0] (JRExpressionCollector.java:263) — 2104467174 generated id 10 for expression 915539127 $F{dob}
+2021-08-03:21:27:19 TRACE [AWT-EventQueue-0] (JRExpressionCollector.java:263) — 2104467174 generated id 11 for expression 916367394 $F{contactNo}
+2021-08-03:21:27:19 TRACE [AWT-EventQueue-0] (JRExpressionCollector.java:263) — 2104467174 generated id 12 for expression 126403513 $F{ward}
+2021-08-03:21:27:19 TRACE [AWT-EventQueue-0] (JRExpressionCollector.java:263) — 2104467174 generated id 13 for expression 1627348210 $F{address}
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (BaseReportFiller.java:163) — Fill 1: created for in
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (BaseReportFiller.java:191) — created delayed actions 1 for filler 1
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (FontExtensionsRegistry.java:88) — Loading font extensions from net/sf/jasperreports/fonts/jasperreports-fonts.xml
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (SimpleFontExtensionHelper.java:293) — Parsing font family JasperReports Icons
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (SimpleFontFace.java:177) — Loading font net/sf/jasperreports/fonts/icons/icons.ttf
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (SimpleFontExtensionHelper.java:293) — Parsing font family Pictonic
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (SimpleFontFace.java:177) — Loading font net/sf/jasperreports/fonts/icons/icons.ttf
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: BACKGROUND} for band 1025320189
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: TITLE} for band 2139296074
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: PAGE_HEADER} for band 266463777
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: COLUMN_HEADER} for band 1178010982
+2021-08-03:21:27:20 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: DETAIL} for band 1516835050
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: COLUMN_FOOTER} for band 457488006
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: PAGE_FOOTER} for band 2040505623
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillBand.java:175) — Origin {reportName: null, groupName: null,bandType: SUMMARY} for band 777733309
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:95) — Filler 1 - pageHeight: 842, columnFooterOffsetY: 723, lastPageColumnFooterOffsetY: 777
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRBaseFiller.java:558) — Fill 1: filling report
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRBaseFiller.java:1048) — max page width is 2097152000
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillDataset.java:1248) — Fill 1: Creating sql query executer
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:152) — DB is MySQL version 8.0.23 (8/0)
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:156) — driver is MySQL Connector/J version mysql-connector-java-8.0.23 (Revision: 18bbd5e68195d0da083cbd5bd0d05d76320df7cd) (8/0)
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:160) — jdbc 4/2
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:162) — connection URL is jdbc:mysql://localhost:3307/dpmdb?useSSL=false
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:204) — system timezone is sun.util.calendar.ZoneInfo[id="Asia/Colombo",offset=19800000,dstSavings=0,useDaylight=false,transitions=9,lastRule=null]
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:205) — report timezone is sun.util.calendar.ZoneInfo[id="Asia/Colombo",offset=19800000,dstSavings=0,useDaylight=false,transitions=9,lastRule=null]
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:206) — JDBC timezone parameter is null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:207) — JDBC timezone property is null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:213) — JDBC parameters timezone parameter is null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:225) — JDBC parameters timezone property is null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:232) — parameters timezone null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:238) — JDBC fields timezone parameter is null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:250) — JDBC fields timezone property is null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:257) — fields timezone null
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRJdbcQueryExecuter.java:362) — SQL query string: SELECT dpmdb.inwardpatients.`nicNo`,
+	dpmdb.inwardpatients.name,
+	dpmdb.inwardpatients.dob,
+	dpmdb.inwardpatients.`contactNo`,
+	dpmdb.inwardpatients.ward,
+	dpmdb.inwardpatients.address,
+	dpmdb.inwardpatients.guardian
+FROM dpmdb.inwardpatients
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRResultSetDataSource.java:514) — field nicNo has type 12/VARCHAR, class java.lang.String
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRResultSetDataSource.java:514) — field name has type 12/VARCHAR, class java.lang.String
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRResultSetDataSource.java:514) — field dob has type 12/VARCHAR, class java.lang.String
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRResultSetDataSource.java:514) — field contactNo has type 12/VARCHAR, class java.lang.String
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRResultSetDataSource.java:514) — field ward has type 4/INT, class java.lang.Integer
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRResultSetDataSource.java:514) — field address has type 12/VARCHAR, class java.lang.String
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRResultSetDataSource.java:514) — field guardian has type 12/VARCHAR, class java.lang.String
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRBaseFiller.java:1350) — Fill 1: adding page 1
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:309) — Fill 1: title at 20
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: BAND, group: null, band: 2139296074}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:394) — Fill 1: page header at 99
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: BAND, group: null, band: 266463777}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:478) — Fill 1: column header at 134
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (SimpleTextLineWrapper.java:318) — creating element font infos cache of size 2000
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:361) — font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10] has complex layout false, leading 0.32714844
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element eecf0ece-7ddf-49b8-852d-7ef5bcb77aba
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 5 in width 75.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:584) — exact line break index measured at 5
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 5 at width 25.56640625
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element 05216122-cd78-4f98-bc88-f996db8e910a
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 4 in width 75.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 4 at width 25.0146484375
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element 2135ecfc-3e32-4b21-b5af-515980fe146e
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 3 in width 61.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 3 at width 16.6845703125
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element 1f5c5e12-cae2-402b-bbd1-135dc602fa34
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 9 in width 69.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 9 at width 45.0244140625
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element f81c13df-60c2-49df-bb32-4a8527286ed5
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 4 in width 71.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 4 at width 21.6748046875
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element 5176d735-733c-40ed-88d2-8847cde0f58f
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 7 in width 51.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 7 at width 35.576171875
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:84) — Added object net.sf.jasperreports.engine.fill.JRTemplateText@3422afc6
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3422afc6 for object net.sf.jasperreports.engine.fill.JRTemplateText@3971aa28
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3422afc6 for object net.sf.jasperreports.engine.fill.JRTemplateText@2860bfed
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3422afc6 for object net.sf.jasperreports.engine.fill.JRTemplateText@6813d327
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3422afc6 for object net.sf.jasperreports.engine.fill.JRTemplateText@4cb10c77
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3422afc6 for object net.sf.jasperreports.engine.fill.JRTemplateText@7825cf23
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: BAND, group: null, band: 1178010982}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:757) — Fill 1: detail at 195
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element a0930039-f154-4c39-9a7e-37d0724af0aa
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 3 in width 80.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 3 at width 16.6845703125
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element d914531e-e4c3-4e04-b176-7412cf71e63d
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 4 in width 71.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 4 at width 15.56640625
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element df19b626-ec9d-4511-96b8-002632fb8590
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 5 in width 69.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 5 at width 23.3349609375
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element 3fcfbd03-5384-47c7-988a-cbf0ae4a7267
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 4 in width 75.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 4 at width 15.56640625
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element 1d367cfc-59b3-4a61-9313-f30f7f9f828c
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 1 in width 71.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 1 at width 5.5615234375
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:298) — creating element font info for {font: {family: SansSerif}, size: 10.0, style: 0} and element fac64671-1ec1-417a-8629-5d9fc6e323dd
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:436) — paragraph start at 0, truncate at char false, LTR true, exact measure false
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:526) — simple line measurement at 0 to 4 in width 61.0 with font java.awt.Font[family=SansSerif,name=SansSerif,style=plain,size=10]
+2021-08-03:21:27:21 TRACE [AWT-EventQueue-0] (SimpleTextLineWrapper.java:753) — measured to index 4 at width 15.56640625
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:84) — Added object net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillTextField.java:472) — created net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for (null, null)
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for object net.sf.jasperreports.engine.fill.JRTemplateText@3ee5c91a
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillTextField.java:472) — created net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for (null, null)
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for object net.sf.jasperreports.engine.fill.JRTemplateText@7c574707
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillTextField.java:472) — created net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for (null, null)
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for object net.sf.jasperreports.engine.fill.JRTemplateText@70775791
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillTextField.java:472) — created net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for (null, null)
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:84) — Added object net.sf.jasperreports.engine.fill.JRTemplateText@4af79e09
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillTextField.java:472) — created net.sf.jasperreports.engine.fill.JRTemplateText@4af79e09 for (null, {java.lang.Integer, null,null,null,null})
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DeduplicableRegistry.java:91) — Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for object net.sf.jasperreports.engine.fill.JRTemplateText@5a4a3354
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillTextField.java:472) — created net.sf.jasperreports.engine.fill.JRTemplateText@3711a56b for (null, null)
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: BAND, group: null, band: 1516835050}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:1176) — Fill 1: summary at 320
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:1080) — Fill 1: column footer at 362
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: BAND, group: null, band: 457488006}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRVerticalFiller.java:1149) — Fill 1: page footer at 768
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: BAND, group: null, band: 2040505623}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: BAND, group: null, band: 777733309}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: COLUMN, group: null, band: 0}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: PAGE, group: null, band: 0}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: REPORT, group: null, band: 0}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (DelayedFillActions.java:228) — 1 running delayed actions on {type: MASTER, group: null, band: 0}
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRBaseFiller.java:633) — Fill 1: ended
+2021-08-03:21:27:21 DEBUG [AWT-EventQueue-0] (JRFillDataset.java:1331) — Fill 1: closing query executer
